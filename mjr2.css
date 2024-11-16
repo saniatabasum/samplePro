@@ -1,0 +1,75 @@
+.container{
+    border: solid;
+    height: 760px;
+    padding: 0;
+}
+.head{
+    border: solid lightcoral;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+#subh{
+    font-size:large;
+}
+/* #p1{
+    margin-bottom: 210px;
+} */
+.Navi{
+    border: solid lightcoral;
+    height: 30px;
+}
+#sp{
+    margin: 45px;
+}
+.Sale{
+    border: solid lightcoral;
+    height: 200px;
+}
+.col{
+    border: solid;
+    height: 90px;
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.now{
+    border: solid;
+    height: 20px;
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 10px;
+}.Offers{
+    border: solid lightcoral;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Free{
+    border: solid;
+    height: 55px;
+}#H1{
+    font-size:large;
+}
+.Adds{
+    border: solid lightcoral;
+    height: 390px;
+}
+.content{
+    border: solid lightcoral;
+    height: 400px;
+}
+.box1{
+    border: solid;
+    height: 200px;
+   overflow-y: auto;
+}
+/* .box2{
+    border: solid;
+} */
+ #san{
+    height: 90px;
+   position: relative;
+   left: 200px;
+  
+ }

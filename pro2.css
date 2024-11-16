@@ -1,0 +1,30 @@
+#container{
+  border: solid ;
+  background-color:ghostwhite;
+  height: 600px;
+}
+#h{
+border: solid;
+height: 100px;
+text-align: center;
+line-height: 100px;
+}
+#c{
+    border: solid;
+    height: 300px;
+    text-align: center;
+    line-height:300px;
+}
+#f{
+    border: solid;
+    height: 130px;
+    text-align: center;
+    line-height: 130px;
+}
+.a{
+    border: solid;
+    height: 50px;
+    text-indent: 500px;
+    line-height: 50px;
+    -ms-word-break: keep-all 200px;
+}

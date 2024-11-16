@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>flex</title>
+    <style>
+        .container{
+            border: solid yellowgreen;
+            height: 610px;
+        }
+        #h{
+            border: solid orange;
+            height: 100px;
+            margin: 10px ;
+            text-align: center;
+            line-height: 100px;
+        }
+        .section{
+            /* border: solid orangered; */
+            display: flex;
+            justify-content: space-evenly;
+        }
+        #m{
+            border: solid orangered;
+            height: 350px;
+            width: 200px;
+            text-align: center;
+            line-height: 350px;
+            margin: 10px;
+
+        }
+        #c{
+            border: solid orangered;
+            height: 350px;
+            width: 880px;
+            text-align: center;
+            line-height: 350px;
+            margin: 10px;
+        }
+
+        #f{
+            border: solid orange;
+            height: 100px;
+            margin: 10px;
+            text-align: center;
+            line-height: 100px;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="h">website</div>
+        <div class="section">
+            <div id="m">menu</div>
+            <div id="c">content</div>
+            <div id="m">advt</div>
+        </div>
+        <div id="f">foot</div>
+    </div>
+</body>
+</html>

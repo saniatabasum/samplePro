@@ -1,0 +1,39 @@
+#b1{
+  border: solid;
+  height: 600px;
+  background-color: red;
+}
+.pro3{
+  display: flex;
+}
+#b2{
+  border: solid ;
+  height:420px ;
+  padding: 40px 40px;
+  margin: 50px 50px;
+  background-color: rgba(6, 168, 243, 0.514);
+}
+#b3{
+    border: solid ;
+    height:400px ;
+    width: 5cm;
+    background-color: rgb(201, 5, 240);
+}
+
+#b4{
+  border: solid ;
+  height:400px ;
+  width: 10cm;
+  padding-left: 100px;
+  margin-left: 350px;
+  background-color: yellow;
+}
+#b5{
+  border: solid ;
+  height:400px ;
+  width: 5cm;
+  margin-left: 500px;
+  background-color: rgb(8, 127, 238);
+}
+  
+
